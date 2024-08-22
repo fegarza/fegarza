@@ -5,20 +5,16 @@
  
  
 
-<h1 align="center">Hi there 👋, I'm a computer systems engineer 💻</h1>
+<h1 align="center">Hello there 👋, this is Felipe Garza, I'm a computer systems engineer. 💻</h1>
 
 <img   width="250px" align="right" src="src/coding.gif">
 
 
 ## About me:
- 
-- 🪅 I am from México (yes, I like tacos and burritos🌮).
-
-- 💼 I work as a software developer at Aduasis Logística.
-
-- 📖 I am currently studying for a master's of IT Administration.
-
-- 🧑🏻‍💻 And of course, I love to code all day<3.
+- 🪅 I am from Mexico.
+- 💼 I have been working as a software developer at Aduasis Logística since 2020.
+- 📖 I have a master's degree in I.T. management.
+- 🧑🏻‍💻 And as you already have noticed I like to code every day.
 
 <br>
 <br>
